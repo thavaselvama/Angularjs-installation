@@ -1,0 +1,11 @@
+How to Set Up a Local HTTP Server (Node.js)
+
+1.open node cmd
+2.redirect folder
+3.npm install http-server -g
+4.http-server -folderlocation-
+
+ex:
+http-server -C:\xampp\htdocs\www\angularjs-
+
+
