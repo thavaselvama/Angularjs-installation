@@ -1,4 +1,6 @@
 Angular material download:
+1.npm install -g bower
+2.bower init
 1.bower install angular-material
 2.Packege.json
 
